@@ -8,7 +8,7 @@ html {
    width: 100vw;
    height: 100vh;
    overflow: hidden;
-   background: #000;
+   background: linear-gradient(to bottom, #020111 85%,#191621 100%);
 }
 
 canvas {
