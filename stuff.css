@@ -4,8 +4,16 @@ html {
    padding: 0;
 }
 
+.canvasWrap {
+   width: 100vw;
+   height: 100vh;
+   overflow: hidden;
+   background: #000;
+}
+
 canvas {
-   border: 1px solid red;
+   // red so i could see where it iiiis
+   // border: 1px solid red;
    margin: 0;
    padding: 0;
 }
